@@ -1,0 +1,223 @@
+
+## IsThisShitReal
+is this real chat[X]
+
+## NameLord
+Lord[X]
+
+## NameCav
+Cavalier[X]
+
+## NameAxeCav
+Cataphract[X]
+
+## NamePaladin
+Paladin[X]
+
+## NameGK
+Great Knight[X]
+
+## NameKnight
+Knight[X]
+
+## NameGeneral
+General[X]
+
+## NameMyrm
+Myrmidon[X]
+
+## NameSM
+Swordmaster[X]
+
+## NameThief
+Thief[X]
+
+## NameAssassin
+Assassin[X]
+
+## NameArcher
+Archer[X]
+
+## NameSniper
+Sniper[X]
+
+## NameHorseman
+Horseman[X]
+
+## NameWyvern
+Wyvern Rider[X]
+
+## NameWLord
+Wyvern Lord[X]
+
+## NamePriest
+Priest[X]
+
+## NameCleric
+Cleric[X]
+
+## NameMage
+Mage[X]
+
+## NameSage
+Sage[X]
+
+## NameBishop
+Bishop[X]
+
+## NameShaman
+Shaman[X]
+
+## NameDruid
+Druid[X]
+
+## NameFighter
+Fighter[X]
+
+## NameWarrior
+Warrior[X]
+
+## NameBrigand
+Brigand[X]
+
+## NamePirate
+Pirate[X]
+
+## NameBerserker
+Berserker[X]
+
+## NameHunter
+Hunter[X]
+
+## NameSoldier
+Soldier[X]
+
+## NameHalb
+Veteran[X]
+
+## NamePeg
+Peg Knight[X]
+
+## NameFalco
+Falcoknight[X]
+
+## NameTroub
+Troubadour[X]
+
+## NameValk
+Valkyrie[X]
+
+## DescLaurence
+placeholder[X]
+
+## DescLillian
+placeholder[X]
+
+## DescLaurenceP
+placeholder[X]
+
+## DescLillianP
+placeholder[X]
+
+## DescCav
+placeholder[X]
+
+## DescPaladin
+placeholder[X]
+
+## DescKnight
+placeholder[X]
+
+## DescGeneral
+placeholder[X]
+
+## DescThief
+placeholder[X]
+
+## DescAxeCav
+placeholder[X]
+
+## DescGK
+placeholder[X]
+
+## DescMyrm
+placeholder[X]
+
+## DescSM
+placeholder[X]
+
+## DescAssassin
+placeholder[X]
+
+## DescArcher
+placeholder[X]
+
+## DescSniper
+placeholder[X]
+
+## DescHorseman
+placeholder[X]
+
+## DescWyvern
+placeholder[X]
+
+## DescWLord
+placeholder[X]
+
+## DescPriest
+placeholder[X]
+
+## DescCleric
+placeholder[X]
+
+## DescMage
+placeholder[X]
+
+## DescSage
+placeholder[X]
+
+## DescBishop
+placeholder[X]
+
+## DescShaman
+placeholder[X]
+
+## DescDruid
+placeholder[X]
+
+## DescFighter
+placeholder[X]
+
+## DescWarrior
+placeholder[X]
+
+## DescBrigand
+placeholder[X]
+
+## DescBerserker
+placeholder[X]
+
+## DescPirate
+placeholder[X]
+
+## DescHunter
+placeholder[X]
+
+## DescSoldier
+placeholder[X]
+
+## DescHalb
+placeholder[X]
+
+
+## DescPeg
+placeholder[X]
+
+## DescFalco
+placeholder[X]
+
+## DescTroub
+placeholder[X]
+
+## DescValk
+placeholder[X]

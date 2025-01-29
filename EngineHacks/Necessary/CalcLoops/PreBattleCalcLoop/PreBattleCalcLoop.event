@@ -106,6 +106,7 @@ AuraSkillEntry(BloodTideID)
 AuraSkillEntry(WhitePoolID)
 AuraSkillEntry(NightTideID)
 AuraSkillEntry(PastelVeilID)
+AuraSkillEntry(FlankerID)
 
 PUSH
 ORG 0x2a3f8

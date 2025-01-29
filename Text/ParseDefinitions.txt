@@ -18,6 +18,8 @@
 [Event] = [LoadOverworldFaces]
 [OpenQuote] = [0xC2][0x93]
 [CloseQuote] = [0xC2][0x94]
+[oq] = [OpenQuote]
+[cq] = [CloseQuote]
 
 [FarFarLeft] = [OpenFarFarLeft]
 [FarLeft] = [OpenFarLeft]

@@ -1,0 +1,24 @@
+//movement types
+
+#define FlierAvo 0x880c53c
+#define FlierDef 0x880c57d
+#define FlierRes 0x880c5be
+
+#define GroundAvo 0x880c479
+#define GroundDef 0x880c4ba
+#define GroundRes 0x880c4fb
+
+#define CavTerrain 0x880ba92
+
+
+//item numbers
+
+#define Sw 0x0
+#define Ln 0x1
+#define Ax 0x2
+#define Bw 0x3
+#define An 0x5
+#define Lt 0x6
+#define Dk 0x7
+#define St 0x4
+#define It 0x9

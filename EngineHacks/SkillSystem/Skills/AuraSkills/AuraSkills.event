@@ -85,6 +85,7 @@ WORD FocusID
 ALIGN 4
 Anathema:
 #incbin "Anathema/Anathema.dmp"
+POIN SkillTester
 POIN NewAuraSkillCheck
 WORD AnathemaID
 
@@ -177,6 +178,13 @@ Pathfinder:
 #incbin "Pathfinder/Pathfinder.dmp"
 POIN AuraSkillCheck
 WORD PathfinderID
+
+ALIGN 4
+Flanker:
+#incbin "Flanker/Flanker.dmp"
+POIN SkillTester
+POIN AuraSkillCheck
+WORD FlankerID 
 
 #include "ClassTypeSkills/ClassTypeSkills.event"
 

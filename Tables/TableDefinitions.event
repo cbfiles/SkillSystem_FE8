@@ -21,7 +21,7 @@
 
 
 //Weapon Ranks
-#define NoRank 0
+#define nope 0
 #define ERank 1
 #define DRank 31
 #define CRank 71

@@ -228,6 +228,11 @@ POP
   #include "Necessary/UnitMenu/UnitMenu.event"
   #include "Necessary/Popups.event"
   
+  ALIGN 4
+  #include "newenginehack.lyn.event"
+  #include "MMB/Installers/catballsecondmmb.event"
+  #include "promotion_and_autolevels.lyn.event"
+  
   #include "Necessary/CalcLoops/CalcLoops.event"
 
   // Save/Suspend Expansion

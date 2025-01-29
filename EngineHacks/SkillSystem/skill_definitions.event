@@ -273,7 +273,10 @@
 
 //Skybreaker: Deal effective damage to flying units.
 //By Sme
-#define SkybreakerID 47
+#define SkybreakerID 255
+
+//Flanker
+#define FlankerID 47
 
 //Resourceful: Double effectiveness multiplier.
 //By Sme

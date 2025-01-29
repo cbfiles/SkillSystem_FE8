@@ -148,7 +148,7 @@
 
 //If uncommented, Cannot Crit will be implemented.
 //Makes weapon crit of 255 negate crits.
-//#define CANNOT_CRIT
+#define CANNOT_CRIT
 
 //If uncommented, AdvWeaponLocks will be implemented.
 //This is a rewrite of venno's array-based weapon locks.
@@ -184,7 +184,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 // If uncommented, the fourth page of the stat screen will include personal information on the character.
 // This information can be edited in the "Personal Data Editor.csv" file.
 // This will automatically enable Narrow Font.
-#define ENABLE_PERSONAL_INFO
+//#define ENABLE_PERSONAL_INFO
 
 // If uncommented, the third page of the stat screen will only show weapon ranks that the unit has a rank in.
 #define ONLY_SHOW_USED_RANKS
@@ -351,7 +351,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 #define HOARDERS_BANE_USE_CONVOY True
 
 // If true, enemies/npcs with Canto+ will retreat to their safest tile with any remaining movement after their action. 
-#define CANTO_AI True
+#define CANTO_AI False
 
 // ================================
 // = GROWTH DISPLAY CONFIGURATION =
@@ -361,7 +361,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 #define PRESS_SELECT_TO_VIEW_GROWTHS
 
 //If true, the stat colors for player units will reflect their growth in the stat.
-#define USE_STAT_COLORS True
+#define USE_STAT_COLORS False
 
 //When leveling up, the game rerolls (up to 5 times) until you gain at least this many points
 #define MIN_STAT_GAIN 1 // vanilla is 1 

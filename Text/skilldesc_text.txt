@@ -3,6 +3,10 @@
 Savior: Can rescue[N]
 without penalties.[X]
 
+## SD_Flanker
+Flanker: +20 hit, +2 atk,[N]
++2 def to flanking allies.[X]
+
 ## SD_Adept
 Adept: Gain a consecutive attack.[N]
 (Speed % activation)[X]

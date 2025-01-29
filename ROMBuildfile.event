@@ -1,6 +1,7 @@
 #ifdef _FE8_
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
+	#include "Definitions/Installer.event"
 //PROTECT $25224
     ORG FreeSpace
 
@@ -9,6 +10,14 @@
     //Text first for Text ID definitions
     #include "Text/InstallTextData.event"
     MESSAGE Used text space ends at currentOffset
+
+	//Graphics
+	#include "Graphics/Installer.event"
+	MESSAGE Graphics end at currentOffset
+	
+	//Music
+	#include "Music/Installer.event"
+	MESSAGE Music ends at currentOffset
 
     //CSV tables
     #include "Tables/TableInstaller.event"
@@ -22,10 +31,34 @@
     //Events
     #include "Events/Release_map.event"
     #include "Events/WorldMapEvents.event"
-
+    #endif // USE_TEST_MAP
     //Maps
     #include "Maps/MasterMapInstaller.event"
-    #endif // USE_TEST_MAP
+
+	//set HP cap to 80 (courtesy of retina)
+	PUSH
+	ORG $181e2
+	BYTE 0x50
+	ORG $181ee
+	BYTE 0x50
+	ORG $2bf4c
+	BYTE 0x50
+	ORG $2bf64
+	BYTE 0x50
+	ORG $9c0e4
+	BYTE 0x50
+	ORG $9c278
+	BYTE 0x50
+	//foe hp
+	ORG $181dc
+	BYTE 0x50
+	ORG $181f4
+	BYTE 0x50
+	ORG $2bf46
+	BYTE 0x50
+	ORG $2bf60
+	BYTE 0x50
+	POP
 	
 	ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
 	
