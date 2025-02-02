@@ -1,2 +1,5 @@
 #include "MiscStuff.event"
 #include "UnitDefs.event"
+#include "ClassDefs.event"
+#include "MapDefs.event"
+#include "ChapterDefs.event"

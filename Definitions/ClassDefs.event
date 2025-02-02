@@ -1,0 +1,39 @@
+//class defs
+#define LaurenceLord 0x1
+#define LillianLord 0x2
+//great lords eventually
+
+#define Cavalier 0x5
+#define CavalierF 0x6
+#define Paladin 0x7
+#define PaladinF 0x8
+#define Knight 0x9
+#define KnightF 0xA
+#define General 0xB
+#define GeneralF 0xC
+#define Thief 0xD
+
+#define AxeCavalier 0xF
+#define AxeCav AxeCavalier
+#define AxeCavalierF 0x10
+#define AxeCavF AxeCavalierF
+#define AxePaladin 0x11
+#define AxePaladinF 0x12
+#define Myrmidon 0x13
+#define MyrmidonF 0x14
+
+#define Fighter 0x31
+#define Warrior 0x32
+
+#define Brigand 0x35
+#define Pirate 0x36
+#define Berserker 0x37
+
+#define Hunter 0x3f
+#define HunterF 0x40
+#define Soldier 0x41
+#define SoldierF 0x42
+#define Halb 0x43
+#define HalbF 0x44
+
+//UNFINISHED

@@ -1,2 +1,6 @@
 //installer for chapters
 
+ALIGN 4
+{
+#include "Chapter1.event"
+}

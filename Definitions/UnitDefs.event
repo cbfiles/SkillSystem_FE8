@@ -6,5 +6,6 @@
 #define Winston 0x03
 #define Imogen 0x04
 #define Perry 0x05
+#define Hare 0x06
 
 #define GenericBandit 0x80

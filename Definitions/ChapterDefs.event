@@ -1,0 +1,5 @@
+#define Chapter1 0x0
+#define Chapter2 0x1
+#define Chapter3 0x2
+#define Chapter4 0x4
+//etc
