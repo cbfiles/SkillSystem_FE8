@@ -1,0 +1,100 @@
+
+ALIGN 4
+AP11:
+#incbin "AP1-1.ap.bin"
+ALIGN 4
+AP12:
+#incbin "AP1-2.romtcs.ap.bin"
+ALIGN 4
+AP21:
+#incbin "AP2-1.ap.bin"
+
+
+ALIGN 4
+LaurenceSt:
+#incbin "Standing Map Anims SkillsTest.gba_0@00_8AF880.dmp"
+ALIGN 4
+AxeCavSt:
+#incbin "Standing Map Anims SkillsTest.gba_10@0A Cataphract_8AF8D0.dmp"
+ALIGN 4
+AxePalSt:
+#incbin "Standing Map Anims SkillsTest.gba_11@0B Great Knight_8AF8D8.dmp"
+ALIGN 4
+PriestSt:
+#incbin "Priest (M) Staff {IS}-stand.dmp"
+ALIGN 4
+ClericSt:
+#incbin "Standing Map Anims SkillsTest.gba_28@1C Cleric_8AF960.dmp"
+ALIGN 4
+FighterSt:
+#incbin "Fighter (M) Axe {IS}-stand.dmp"
+ALIGN 4
+WarriorSt:
+#incbin "Warrior (M) Axe {IS}-stand.dmp"
+ALIGN 4
+BrigandSt:
+#incbin "Brigand (M) Axe {IS}-stand.dmp"
+ALIGN 4
+PirateSt:
+#incbin "Pirate (M) Axe {IS}-stand.dmp"
+ALIGN 4
+BerserkerSt:
+#incbin "Berserker (M) Axe {IS}-stand.dmp"
+ALIGN 4
+HunterSt:
+#incbin "Hunter (M) {MeatOfJustice}-stand.dmp"
+ALIGN 4
+HunterFSt:
+#incbin "Hunter (F) {MeatOfJustice}-stand.dmp"
+ALIGN 4
+SoldierSt:
+#incbin "Standing Map Anims SkillsTest.gba_51@33 Soldier_8AFA18.dmp"
+ALIGN 4
+HalbSt:
+#incbin "Halberdier (M) 2.0 {TBA}-stand.dmp"
+
+ALIGN 4
+LaurenceMv:
+#incbin "Moving Map Anims SkillsTest.gba_0@01 Lord_9A2E00.dmp"
+ALIGN 4
+AxeCavMv:
+#incbin "Moving Map Anims SkillsTest.gba_14@0F Cataphract_9A2E70.dmp"
+ALIGN 4
+AxePalMv:
+#incbin "Moving Map Anims SkillsTest.gba_16@11 Great Knight_9A2E80.dmp"
+
+
+ALIGN 4
+SoldierMv:
+#incbin "Moving Map Anims SkillsTest.gba_64@41 Soldier_9A3000.dmp"
+
+ALIGN 4
+PriestMv:
+#incbin "Priest (M) Staff {IS}-walk.dmp"
+ALIGN 4
+ClericMv:
+#incbin "Moving Map Anims SkillsTest.gba_50@33 Rogue__9A2F90.dmp"
+
+FighterMv:
+#incbin "Fighter (M) Axe {IS}-walk.dmp"
+ALIGN 4
+WarriorMv:
+#incbin "Warrior (M) Axe {IS}-walk.dmp"
+ALIGN 4
+BrigandMv:
+#incbin "Brigand (M) Axe {IS}-walk.dmp"
+ALIGN 4
+PirateMv:
+#incbin "Pirate (M) Axe {IS}-walk.dmp"
+ALIGN 4
+BerserkerMv:
+#incbin "Berserker (M) Axe {IS}-walk.dmp"
+ALIGN 4
+HunterMv:
+#incbin "Hunter (M) {MeatOfJustice}-walk.dmp"
+ALIGN 4
+HunterFMv:
+#incbin "Hunter (F) {MeatOfJustice}-walk.dmp"
+ALIGN 4
+HalbMv:
+#incbin "Halberdier (M) 2.0 {TBA}-walk.dmp"

@@ -1,0 +1,26 @@
+## NameSA
+Labrys[X]
+
+## NameGS
+Greatsword[X]
+
+##NameGL
+Greatlance[X]
+
+##NameGA
+Greataxe[X]
+
+##NameGB
+Greatbow[X]
+
+##NameES
+Elite Sword[X]
+
+##NameEL
+Elite Lance[X]
+
+##NameEA
+Elite Axe[X]
+
+##NameEB
+Elite Bow[X]

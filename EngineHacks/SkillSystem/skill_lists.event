@@ -1,4 +1,5 @@
-
+LillianSkillList:
+BYTE 1 AdeptID
 ALIGN 4 
 
 EphraimLordSkillList:

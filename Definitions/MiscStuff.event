@@ -8,7 +8,7 @@
 #define GroundDef 0x880c4ba
 #define GroundRes 0x880c4fb
 
-#define CavTerrain 0x880ba92
+//#define CavTerrain 0x880ba92
 
 
 //item numbers
@@ -22,3 +22,22 @@
 #define Dk 0x7
 #define St 0x4
 #define It 0x9
+
+//AI defs
+#define ChargeAI NoAI
+#define PandanAI ChaseOnceApproachedAI
+
+
+//items go here i guess
+
+#define SlimAxe 0xbd
+#define Greatsword 0xbe
+#define Greatlance 0xbf
+#define Greataxe 0xc0
+#define Greatbow 0xc1
+#define EliteSword 0xc2
+#define EliteLance 0xc3
+#define EliteAxe 0xc4
+#define EliteBow 0xc5
+
+#define Labrys SlimAxe

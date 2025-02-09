@@ -490,6 +490,11 @@ Decapitator:
 POIN SkillTester
 WORD DecapitatorID
 
+ALIGN 4
+NotAccost:
+#incbin "NotAccost/NotAccost.dmp"
+POIN SkillTester
+WORD NotAccostID
 
 #include "KeenFighter/Installer.event" 
 #include "FlankSwarmScale/Installer.event" 

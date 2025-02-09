@@ -3,9 +3,20 @@
 #define Lillian 0x01
 #define Laurence 0x0f
 #define Adeline 0x02
-#define Winston 0x03
-#define Imogen 0x04
-#define Perry 0x05
-#define Hare 0x06
+#define Winston 0x05
+#define Imogen 0x06
+#define Perry 0x03
+#define Hare 0x04
+#define Emmerich 0x07
+#define Zeitz 0x08
+#define Helen 0x09
 
-#define GenericBandit 0x80
+
+
+
+#define Clay 0x40
+#define Marie 0x41
+
+
+#define GBandit 0x80
+#define GGrosadel 0x81

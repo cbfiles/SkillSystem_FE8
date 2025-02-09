@@ -48,3 +48,10 @@ Skillsystem Credits
 Other credits:
 
 Retina for letting me stare at his buildfile
+Loog - Terrain Cost data from BoB
+
+
+Map sprites
+
+Axe Cavs- Siuloir
+Axe Paladins- Pikmin, L95, Der

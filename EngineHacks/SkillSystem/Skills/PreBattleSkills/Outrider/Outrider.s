@@ -32,16 +32,16 @@ beq End
 
 ldr r3,=0x203a968 @Spaces Moved
 ldrb r2,[r3]
-mov r1, #0x5C @Def
+mov r1, #0x60 @hit
 ldrh r0, [r4, r1]
-mov r3,#0x1
+mov r3,#0x5
 mul r3,r2
 add r0, r3
 strh r0, [r4,r1]
 
 mov r1, #0x66 @crit
 ldrh r0, [r4, r1]
-mov r3,#0x3
+mov r3,#0x5
 mul r3,r2
 add r0, r3
 strh r0, [r4,r1]

@@ -1,0 +1,50 @@
+#define StandingMapSpriteTable 0x8AF880
+#define MovingMapSpriteTable 0x9A2E00 
+
+#define StandingMapSprite(aId, size, gfxPointer) "PUSH; ORG StandingMapSpriteTable + (aId * 8); SHORT 0 size; POIN gfxPointer; POP"
+#define MovingMapSprite(aId, apPointer, gfxPointer) "PUSH; ORG MovingMapSpriteTable + ((aId - 1) * 8); POIN gfxPointer apPointer; POP"
+
+
+
+
+#define MapSprite16x16 0
+#define MapSprite16x32 1
+#define MapSprite32x32 2
+
+
+
+StandingMapSprite(0x0, 0, LaurenceSt)
+StandingMapSprite(0xa, 1, AxeCavSt)
+StandingMapSprite(0xb, 1, AxePalSt)
+StandingMapSprite(0x1a,0, PriestSt)
+StandingMapSprite(0x1c, 0, ClericSt)
+StandingMapSprite(0x28, 1, FighterSt)
+StandingMapSprite(0x6b, 1, WarriorSt)
+StandingMapSprite(0x2b, 1, BrigandSt)
+StandingMapSprite(0x2c, 0, PirateSt)
+StandingMapSprite(0x2d, 1, BerserkerSt)
+StandingMapSprite(0x31, 0, HunterSt)
+StandingMapSprite(0x32, 0, HunterFSt)
+StandingMapSprite(0x33, 0, SoldierSt)
+StandingMapSprite(0x34, 0, HalbSt)
+
+//do moving map sprites later
+
+MovingMapSprite(0x0, AP11, LaurenceMv)
+MovingMapSprite(0xf, AP11, AxeCavMv)
+MovingMapSprite(0x10, AP11, AxeCavMv)
+MovingMapSprite(0x11, AP11, AxePalMv)
+MovingMapSprite(0x12, AP11, AxePalMv)
+MovingMapSprite(0x23, AP11, PriestMv)
+MovingMapSprite(0x24, AP11, ClericMv)
+MovingMapSprite(0x31, AP12, FighterMv)
+MovingMapSprite(0x32, AP11, WarriorMv)
+MovingMapSprite(0x35, AP11, BrigandMv)
+MovingMapSprite(0x36, AP11, PirateMv)
+MovingMapSprite(0x37, AP11, BerserkerMv)
+MovingMapSprite(0x3f, AP11, HunterMv)
+MovingMapSprite(0x40, AP11, HunterFMv)
+MovingMapSprite(0x41, AP11, SoldierMv)
+MovingMapSprite(0x42, AP11, SoldierMv)
+MovingMapSprite(0x43, AP11, HalbMv)
+MovingMapSprite(0x44, AP11, HalbMv)

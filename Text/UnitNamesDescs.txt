@@ -10,8 +10,6 @@ Laurence.[X]
 ## NameAdeline
 Adeline[X]
 
-## NameClay
-Clay[X]
 
 ## NameWinston
 Winston[X]
@@ -22,8 +20,45 @@ Imogen[X]
 ## NamePerry
 Perry[X]
 
+## NameHare
+Hare[X]
+
 ## NameLaurence
 Laurence[X]
 
 ## NameZeitz
 Zeitz[X]
+
+## NameEmmerich
+Emmerich[X]
+
+##NameHelen
+Helen[X]
+
+
+//bosses and the like
+## NameClay
+Clay[X]
+
+##DescClay
+Clay.[X]
+
+## NameMarie
+Marie[X]
+
+
+//generics
+
+## NameBandit
+Bandit[X]
+
+## DescBandit
+Brigands roaming the[N]
+countryside to plunder.[X]
+
+## NameGrosadel
+Soldier[X]
+
+## DescGrosadel
+Soldiers of Grosadel.[N]
+

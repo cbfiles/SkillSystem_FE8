@@ -396,9 +396,15 @@ no allies within 3 tiles.[X]
 Bond: All allies within 3 tiles[N]
 recover 10% HP each turn.[X]
 
+##SD_NotAccost
+Deathmatch: If in combat where[N]
+both sides can attack, deal and[N]
+recieve 1.5x damage.[X]
+
 ## SD_Anathema
-Anathema: -10 Avoid/Dodge to all[N]
-enemies within 3 tiles.[X]
+Flanker: +20 hit, +2 atk/def[N]
+to allies adjacent to enemy adjacent[N]
+to unit. Only at 1 range.[X]
 
 ## SD_LilysPoise
 Lily's Poise: Adjacent allies gain[N]
@@ -828,8 +834,8 @@ Thunderstorm: If weapon weight > enemy[N]
 W. Weight, +2 dmg, +15% hit, +5% crit.[X]
 
 ## SD_Outrider
-Outrider: Take -1 damage and[N]
-gain +3% crit per space moved.[N]
+Outrider: Gain +5 hit/crit per[N]
+spaces moved before combat.[N]
 Bonuses disappear on enemy phase.[X]
 
 ## SD_HeavyStrikes

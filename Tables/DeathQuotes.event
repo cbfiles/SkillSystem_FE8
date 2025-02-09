@@ -1,0 +1,14 @@
+
+DeathQuoteTable:
+#define DeathQuote(Character,Chapter,EventID,TextID) "SHORT Character; BYTE 0xFF Chapter; SHORT EventID TextID 0 0"
+DeathQuote(0x40,Chapter1,0x2,0x0916)
+
+DeathQuote(0xFFFF,0,0,0)
+
+
+//death quote pointer
+
+PUSH
+ORG $8472C
+POIN DeathQuoteTable
+POP

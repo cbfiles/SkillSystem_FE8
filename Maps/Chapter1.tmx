@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
  <properties>
-  <property name="Anims1" value=""/>
-  <property name="ObjectType" value=""/>
-  <property name="PaletteID" value=""/>
-  <property name="TileConfig" value=""/>
+  <property name="Anims1" value="0x5"/>
+  <property name="Anims2" value="0x0"/>
+  <property name="ChapterID" value="0x0"/>
+  <property name="Main" value=""/>
+  <property name="MapChangesID" value="0x6"/>
+  <property name="MapID" value="0x4"/>
+  <property name="ObjectType" value="0x1"/>
+  <property name="PaletteID" value="0x2"/>
+  <property name="TileConfig" value="0x3"/>
  </properties>
  <tileset firstgid="1" name="01000203" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
   <image source="01000203.png" trans="ffffff" width="512" height="512"/>
@@ -292,7 +297,7 @@
    <tile gid="418"/>
    <tile gid="619"/>
    <tile gid="433"/>
-   <tile gid="141"/>
+   <tile gid="625"/>
    <tile gid="71"/>
    <tile gid="104"/>
    <tile gid="881"/>
@@ -312,7 +317,7 @@
    <tile gid="617"/>
    <tile gid="429"/>
    <tile gid="657"/>
-   <tile gid="114"/>
+   <tile gid="71"/>
    <tile gid="7"/>
    <tile gid="72"/>
    <tile gid="945"/>

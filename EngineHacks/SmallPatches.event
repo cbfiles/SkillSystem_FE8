@@ -1,0 +1,46 @@
+//thracia trading
+PUSH
+ORG $22f50
+BYTE 0xc0 0x46
+ORG $2D772
+BYTE 0x1B
+ORG $9E3B8
+BYTE 0x1C
+ORG $9E8F2
+BYTE 0x1C
+POP
+//credit retina
+
+//prep store pricing
+PUSH
+ORG $B5237
+BYTE 0xE0
+POP
+//credit retina
+
+//1rn maybe
+PUSH 
+ORG $2b420
+SHORT 0xf885 
+POP
+
+//multiple s ranks
+PUSH
+ORG $2C150
+BYTE 0x11 0xE0
+POP
+
+//credit retina
+
+//1rn
+PUSH
+ORG $CC2
+SHORT $E004
+POP
+//credit BoB
+
+//Sets Vulnerary HP Recovery to 12
+PUSH
+ORG 0x2FEC6
+BYTE 0x0C
+POP
